@@ -7,3 +7,8 @@ Role-Based Access: Secure authentication for different user roles ensures restri
 Data Validation: Form validations enforce data accuracy and integrity.
 This system simplifies HR workflows, providing a reliable and scalable solution for managing employee records in a secure and efficient manner. Designed for easy deployment on servers like Apache Tomcat, it is suitable for organizations of all sizes.
 ![emp (1)](https://github.com/user-attachments/assets/ab4b8879-b877-4e14-8e9e-1a0b7b4aab1f)
+![emp (5)](https://github.com/user-attachments/assets/16ca3e98-8b82-4dcc-a95e-912590952895)
+![emp (2)](https://github.com/user-attachments/assets/330af54d-ca43-4298-a544-4a369dbb1ab4)
+![emp (3)](https://github.com/user-attachments/assets/d8d709c3-0f3f-4f51-9865-e63b0693cc5c)
+![emp (4)](https://github.com/user-attachments/assets/04a7d648-ab28-4a03-bd19-bd7c51ffdae2)
+
