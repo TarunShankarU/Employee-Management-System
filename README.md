@@ -6,6 +6,7 @@ Search and Filter: Admins can easily search or filter employees by department, r
 Role-Based Access: Secure authentication for different user roles ensures restricted access to sensitive data.
 Data Validation: Form validations enforce data accuracy and integrity.
 This system simplifies HR workflows, providing a reliable and scalable solution for managing employee records in a secure and efficient manner. Designed for easy deployment on servers like Apache Tomcat, it is suitable for organizations of all sizes.
+(WHILE IMPORTING THE FILES A FEW HAVE BEEN DELETED, LEAVE A MESSAGE AND ILL SEND IT TO YOU)
 
 ![emp-mgt (1)](https://github.com/user-attachments/assets/1ebc5101-58ed-4278-9281-94a354942010)
 ![emp-mgt (2)](https://github.com/user-attachments/assets/22c275b3-2f7a-403a-8b04-ac05983385a0)
